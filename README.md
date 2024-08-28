@@ -10,7 +10,7 @@ Andrea Avogaro<sup>1</sup>, Luigi Capogrosso<sup>1</sup>, Franco Fummi<sup>1</su
 <sup>1</sup> *Department of Engineering for Innovation Medicine, University of Verona, Italy*
 
 ## Citation ##
-If you use [**MDiFF**](), please, cite the following paper:
+If you use [**Dif4FF**](), please, cite the following paper:
 ```
 TBA.
 ```
